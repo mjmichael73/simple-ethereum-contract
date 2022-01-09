@@ -1,0 +1,17 @@
+{
+    "name": "my_custom_node_smart_contracts",
+    "description": "This is a test project",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "mocha"
+    },
+    "keywords": [],
+    "author": "Mojtaba Michael",
+    "dependencies": {
+        "ganache-cli": "^6.12.2",
+        "mocha": "^9.1.3",
+        "solc": "^0.4.17",
+        "truffle-hdwallet-provider": "^1.0.17",
+        "web3": "^1.0.0-beta.26"
+    }
+}
